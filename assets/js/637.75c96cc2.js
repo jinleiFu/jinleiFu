@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc=self.webpackChunkdoc||[]).push([[637],{2637:(e,a,s)=>{s.r(a),s.d(a,{default:()=>c});var t=s(6252);const d={class:"details-layout"},u=(0,t.aZ)({name:"DetailsLayout"}),c=(0,s(3744).Z)(u,[["render",function(e,a,s,u,c,l){return(0,t.wg)(),(0,t.iD)("div",d,[(0,t.WI)(e.$slots,"default",{},void 0,!0)])}],["__scopeId","data-v-5ef63d42"]])}}]);
